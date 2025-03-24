@@ -15,7 +15,7 @@ por meio do id e pelo seu nome (método específico escolhido).\
 - [x] Criar métodos (cadastrar, atualizar, excluir, consultar todos, consultar por id e consultar por nome)
 - [x] Testar todos métodos através do Insomnia\\\
 
-A parte mais desafiadora do projeto foi fazer os testes no Insomnia\
+A parte mais desafiadora do projeto foi fazer os testes no Insomnia
 
 Esse projeto foi realizado por **Isabela Santos, Abiqueila,\
 Evelyn Santos, Thainara Cruz, Hellen Gleice e Mayte**.
