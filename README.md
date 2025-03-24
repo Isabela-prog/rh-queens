@@ -13,8 +13,8 @@ por meio do id e pelo seu nome (método específico escolhido).
 - [x] Package controller (classes responsáveis por expor as funcionalidades como endpoints REST)
 - [x] Criar classe FuncionarioController
 - [x] Criar métodos (cadastrar, atualizar, excluir, consultar todos, consultar por id e consultar por nome)
-- [x] Testar todos métodos através do Insomnia\
-
+- [x] Testar todos métodos através do Insomnia
+</br>
 > A parte mais desafiadora do projeto foi fazer os testes no Insomnia.  
 
 </br></br> Esse projeto foi realizado por **Isabela Santos, Abiqueila,\
