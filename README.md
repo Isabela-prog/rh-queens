@@ -17,5 +17,5 @@ por meio do id e pelo seu nome (método específico escolhido).
 
 > A parte mais desafiadora do projeto foi fazer os testes no Insomnia.  
 
-Esse projeto foi realizado por **Isabela Santos, Abiqueila,\
+</br></br> Esse projeto foi realizado por **Isabela Santos, Abiqueila,\
 Evelyn Santos, Thainara Cruz, Hellen Gleice e Mayte**.
