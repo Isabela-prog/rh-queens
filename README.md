@@ -2,7 +2,7 @@
 
 Nessa aplicação teremos um sistema completo de cadastro,\
 ataulização, deleção e busca de todos os funcionários,\
-por meio do id e pelo seu nome (método específico escolhido).\
+por meio do id e pelo seu nome (método específico escolhido).
 
 ## Etapas: 
 - [x] Package model (contém as classes que representam as entidades do banco de dados)
